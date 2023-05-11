@@ -1,2 +1,8 @@
 ### Github Pages:
-[PeluqueriaReservaCitas](https://github.com/Cristinacch/preEntregaJs1Camarillo)
+https://cristinacch.github.io/preEntregaJsCamarillo/
+
+
+
+### Netlify:
+
+https://preentregajavascriptcamarillo.netlify.app/
